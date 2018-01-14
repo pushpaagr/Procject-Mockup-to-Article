@@ -1,4 +1,4 @@
-# Procject-Mockup-to-Article
+# Project-Mockup-to-Article
 
 
 <!DOCTYPE html>
